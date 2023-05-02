@@ -1,5 +1,5 @@
 <template>
-  <v-main style="min-height: 100vh; background-color: #ed9c5f;">
+  <v-main style="min-height: 100vh; background-color: #F28D41;">
     <v-row>
       <v-col cols="1">
 
@@ -9,7 +9,7 @@
       <v-col cols="11" class="mt-16">
 
 
-        <v-sheet height="160" color="#416591" style="border-radius: 100px 0px 0px 100px;">
+        <v-sheet height="160" color="#3C59A6" style="border-radius: 100px 0px 0px 100px;">
 
           <v-row>
 
@@ -35,7 +35,7 @@
       </v-col>
       <v-col cols="5" class="mt-16">
 
-        <v-card class="pl-8 pt-16 mt-n1" style="margin-top: 100px; color:white; background-color: #ed9c5f;" width="950px"
+        <v-card class="pl-8 pt-16 mt-n1" style="margin-top: 100px; color:white; background-color: #ED9C5F" width="950px"
           height="340">
           <div>
             <div class="text-h4 mb-2">
@@ -47,7 +47,7 @@
             <div class="font-weight-light text-h4 mt-3">How can I help you?</div>
             <v-card-actions class="link">
               <v-btn class="text-capitalize px-5 mt-3 ml-n2" rounded="xl" size="x-large" color="white"
-                style="background-color: #416591;" to="/departments">
+                style="background-color: #3C59A6;" to="/departments">
                 Inquire Now
               </v-btn>
             </v-card-actions>
